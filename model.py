@@ -87,7 +87,7 @@ async def main(message):
     sources = res["source_documents"]
 
     if sources:
-        answer = answer
+        answer += f"\nSources:" + str(sources)
     else:
         answer += "\nNo sources found"
 
