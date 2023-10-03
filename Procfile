@@ -1,0 +1,1 @@
+web: python -m chainlit run model.py -h --port 8080

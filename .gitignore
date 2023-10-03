@@ -1,0 +1,4 @@
+venv
+.dockerignore
+fly.toml
+Procfile
