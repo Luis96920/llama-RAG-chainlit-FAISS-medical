@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for fragrant-wave-6222 on 2023-10-03T14:40:59-04:00
+# fly.toml app configuration file generated for divine-resonance-4795 on 2023-10-03T22:20:46-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "fragrant-wave-6222"
-primary_region = "ord"
+app = "divine-resonance-4795"
+primary_region = "bos"
 
 [build]
   builder = "paketobuildpacks/builder:base"
