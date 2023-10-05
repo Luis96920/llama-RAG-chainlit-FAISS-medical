@@ -45,13 +45,15 @@ Chainlit is an open-source Python package that makes it incredibly fast to build
 
 ![Alt text](images/chainlit.png)
 
+[![Video Demo](https://img.youtube.com/vi/AnA3aqsuNN0/0.jpg)](https://www.youtube.com/watch?v=AnA3aqsuNN0)
+
+
 ## Future Steps
 
 1. Deploy the application
 2. Gather more data about and keep on updating the existing information
 3. Try different LLM's that give better results
 4. Open for collaboration and new IDEAS
-
 
 
 
