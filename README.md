@@ -4,7 +4,7 @@ Welcome to EcoMed 🤖 Expert, your trusted companion for a healthier you and a 
 
 ## Retrieval Augmented Generation
 
-We are using a methodology called as Retrieval Augmented generation:
+I am using a methodology called as Retrieval Augmented generation:
 
 ![Retrival Augmented Generation Methodology](images/rag.jpg)
 
