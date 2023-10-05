@@ -1,6 +1,6 @@
 # EcoMed Expert 👨‍⚕️🏭
 
-Welcome to EcoMed 🤖 Expert, your trusted companion for a healthier you and a greener planet! Our chatbot is here to empower you with knowledge and solutions that not only enhance your well-being but also contribute to a sustainable world. Whether you have questions about your health or seek insights into environmental science, we've got you covered. Join us on a journey to treat yourself and the environment with care, making a positive impact every day.
+Welcome to [EcoMed](https://www.youtube.com/watch?v=AnA3aqsuNN0) 🤖 Expert, your trusted companion for a healthier you and a greener planet! Our chatbot is here to empower you with knowledge and solutions that not only enhance your well-being but also contribute to a sustainable world. Whether you have questions about your health or seek insights into environmental science, we've got you covered. Join us on a journey to treat yourself and the environment with care, making a positive impact every day.
 
 ## Retrieval Augmented Generation
 
@@ -43,7 +43,8 @@ Chainlit is an open-source Python package that makes it incredibly fast to build
 
 - This integrates everything above and gives us a user interface, lets take a look at it below
 
-![Alt text](images/bot.gif)
+<img src="images/bot.gif" alt="Bot" width="500" height="350">
+
 
 
 ## Future Steps
